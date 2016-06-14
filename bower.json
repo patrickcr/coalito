@@ -1,0 +1,17 @@
+{
+  "name": "coalito",
+  "description": "",
+  "main": "",
+  "authors": [
+    "etern <patrick.reis.cabral@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/patrickcr/coalito",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
